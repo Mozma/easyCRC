@@ -34,8 +34,6 @@ namespace EasyCRC
             {
                 MessageBox.Show(exp.Message, "Ошибка ввода!");
             }
-               
-
         }
 
         private void tbFirstPolynom_KeyPress(object sender, KeyPressEventArgs e)
@@ -46,6 +44,7 @@ namespace EasyCRC
                 e.Handled = true;
             }
         }
+
         // Метод для красивого вывода полинома. Преобразует бинарную строку в полином.
         public string polynomToString( string arr)
         {

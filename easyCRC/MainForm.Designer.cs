@@ -65,9 +65,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(12, 16);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(219, 13);
+            this.label5.Size = new System.Drawing.Size(51, 13);
             this.label5.TabIndex = 13;
-            this.label5.Text = "Лабораторная работа № 5 Задорнов И.Д.";
+            this.label5.Text = "easyCRC";
             // 
             // label2
             // 
